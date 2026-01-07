@@ -1,6 +1,6 @@
 # 🛡️ Kernel Attack Detect (eBPF & ML 기반 커널 공격 탐지)
 
-[커널 트레이싱 로그를 활용한 머신러닝 기반 컨테이너 보안 강화 기법](https://docs.google.com/presentation/d/1OcX_0PfqPiolaT3oqVoi-7p22OAEYcIA4ZTJd8RHTBs/edit?usp=sharing)
+[커널 트레이싱 로그를 활용한 머신러닝 기반 컨테이너 보안 강화 기법 프로잭트 개요](https://docs.google.com/presentation/d/1OcX_0PfqPiolaT3oqVoi-7p22OAEYcIA4ZTJd8RHTBs/edit?usp=sharing)
 
 
 이 프로젝트는 **eBPF(BCC)**를 활용하여 리눅스 커널 레벨의 데이터를 실시간으로 수집하고, **Machine Learning(XGBoost, AdaBoost)** 모델을 통해 커널 공격(비정상 시스템 콜 호출 및 힙 스프레이)을 탐지하는 보안 솔루션입니다.
